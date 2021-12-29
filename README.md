@@ -14,5 +14,6 @@ A python based mini-project to create an interface(using tkinter) which can stor
 3. Debug_Entity_rollnumber_sorting.py - implementation of sorting the names roll number wise.
 
 
-#### Team: Debug_Entity    Neetu, Ananya Bajaj, Akhil Singh
+#### Team: Debug_Entity   
+#### Members: Neetu, Ananya Bajaj, Akhil Singh
 #### Project done in July, 2021
